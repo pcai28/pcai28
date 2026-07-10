@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Martina Cai.<br>I am a software engineer who enjoy building solutions to solve real problems!<br><br>🌍 Based in Irvine, CA.<br><br>🎓 I’m recently completed my M.S. in Computer Science at Georgia Tech.<br><br>🌱 I'm on track with learning more about Software Development, and Software Architecture.<br><br>🤝 I'm open to collaborating on Full-stack web applications.<br><br>⚡ I’m eager to receive feedbacks and learn from experienced engineers to continue growing as a seasoned software engineer.
+Hi! I'm Martina Cai.<br>I am a software engineer who enjoy building solutions to solve real problems!<br><br>🌍 Based in Irvine, CA.<br><br>🎓 I’m recently completed my M.S. in Computer Science at Georgia Tech.<br><br>🌱 I'm on track with learning more about Software Development, and Software Architecture.<br><br>🤝 I'm open to collaborating on Full-stack web applications.<br><br>⚡ I’m eager to receive feedbacks and learn from experienced engineers to continue growing as a seasoned software engineer.<br><br>🐐 I enjoy going to the farm & LA county fair to play with animals.
 
 
 ## 🌐 Socials:
